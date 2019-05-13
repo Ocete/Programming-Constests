@@ -1,6 +1,6 @@
 ## Tuenti Challenge 9
 
-This folder holds my answers to the different Tuenti Challenge 9 problems. The problems can be found here:
+This folder holds my answers to the different Tuenti Challenge 9 problems. The problems themselves can be found here:
 
 https://contest.tuenti.net/Challenges
 
