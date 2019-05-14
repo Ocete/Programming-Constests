@@ -4,4 +4,4 @@ This folder holds my answers to the different Codejam 2019 problems. I've taken 
 
 https://codingcompetitions.withgoogle.com/codejam/archive/2019
 
-On round 1C I got ranked 1337, so I classified round 2.
+On round 1C I got ranked 1337, so I classified for round 2.
