@@ -16,3 +16,9 @@ We got ranked 1503.
 We implemented a genetic algorithm on Python. It can be found here:
 https://github.com/yabirgb/hashcode/tree/master/2018
 However, we didn't manage to upload a valid solution on time.
+
+## 2021
+
+Our solution, implemented in Python, can be found here:
+https://github.com/Ocete/hashcode2021
+We got ranked 403!
